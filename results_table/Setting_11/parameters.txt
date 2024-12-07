@@ -1,0 +1,5 @@
+Hidden Dim: 20
+Num Layers: 1
+Batch Size: 128
+Validation Loss (Close): 0.0000114015
+Loss Config: {'gamma': 1, 'beta': 1, 'beta_v': 2, 'alpha': 2, 'lambda_v': 1.5, 'lambda_dir': 1.5}
